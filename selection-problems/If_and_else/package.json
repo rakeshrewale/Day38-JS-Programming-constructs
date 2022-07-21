@@ -1,0 +1,22 @@
+{
+  "name": "if_and_else",
+  "version": "1.0.0",
+  "description": "if and else assignment problems",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rakeshrewale/Day38-JS-Programming-constructs.githttps:.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rakeshrewale/Day38-JS-Programming-constructs.githttps:/issues"
+  },
+  "homepage": "https://github.com/rakeshrewale/Day38-JS-Programming-constructs.githttps:#readme",
+  "dependencies": {
+    "ifelse": "^1.0.0"
+  }
+}

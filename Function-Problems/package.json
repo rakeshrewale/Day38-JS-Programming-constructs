@@ -1,0 +1,27 @@
+{
+  "name": "function-problems",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Palindrome.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rakeshrewale/Day38-JS-Programming-constructs.git"
+  },
+  "keywords": [
+    "Functions",
+    "programs"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rakeshrewale/Day38-JS-Programming-constructs/issues"
+  },
+  "homepage": "https://github.com/rakeshrewale/Day38-JS-Programming-constructs#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "simple-logs": "^0.2.11"
+  }
+}
